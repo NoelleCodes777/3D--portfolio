@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../backup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3d_portfolio"
+	}
+}
