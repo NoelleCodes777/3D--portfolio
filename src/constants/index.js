@@ -53,10 +53,10 @@ const services = [
     title: "Backend Developer",
     icon: backend,
   },
-  {
-    title: "Content Creator",
-    icon: creator,
-  },
+  // {
+  //   title: "Content Creator",
+  //   icon: creator,
+  // },
 ];
 
 const technologies = [
@@ -129,7 +129,7 @@ const experiences = [
     ],
   },
   {
-    title: "React.js developer",
+    title: "Instructor",
     company_name: "The visiola foundation",
     icon: tesla,
     iconBg: "#E6DEDD",
@@ -197,12 +197,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Budget Tracker",
+    name: "Tasking",
     description:
-      "Web-based platform that allows users to track their budgets and expenses.",
+      "Web-based platform that allows users manage tasks.",
     tags: [
       {
-        name: "python",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
@@ -215,7 +215,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://www.loom.com/share/af04a88747bb4e868558f39d0f8163dc?sid=b3adaada-9e1b-4009-9be5-890cdd5c0954",
+    source_code_link: "https://tasking-beta.vercel.app/",
   },
   {
     name: "Portfolio website",
@@ -241,9 +241,9 @@ const projects = [
      
   
   {
-    name: "Welcome to my Github",
+    name: "Shoe-Hub",
     description:
-      "I have built some projects. click to see my repositories and star me on github",
+      "A platform where you can get the best quality shoes",
     tags: [
       {
         name: "",
@@ -259,7 +259,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/NoelleCodes777",
+    source_code_link: "http://shoe-hub-gilt.vercel.app",
   },
 ];
 

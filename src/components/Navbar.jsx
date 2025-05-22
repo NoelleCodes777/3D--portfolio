@@ -46,7 +46,7 @@ const Navbar = () => {
         >
           <img src={logo} alt='logo' className='w-11 h-11 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Noelle &nbsp;
+            Silifat &nbsp;
             <span className='sm:block hidden'> | Tech Hobbyist</span>
           </p>
         </Link>
